@@ -28,7 +28,7 @@
 
 ## Featured
 
-**[Unique_Fixer](https://github.com/ArshiaRahnama/Unique_Fixer)** — A FiveM / VMP utility script
+**[Unique_Fixer](https://github.com/ArshiaRahnama/Unique_Fixer)** — FiveM / VMP  Script Free
 
 ---
 
