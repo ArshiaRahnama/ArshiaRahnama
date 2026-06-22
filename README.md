@@ -40,9 +40,5 @@
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRahnama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=cbd5e1" height="165"/>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ArshiaRahnama&theme=tokyonight&hide_border=true&background=0d0d1a&ring=818cf8&fire=a855f7&currStreakLabel=c4b5fd" width="500"/>
-
 </div>
 
