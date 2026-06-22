@@ -1,18 +1,96 @@
+## 🏢 My Brands & Businesses
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=260&section=header&text=Arshia%20Rahnama&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=%3C%20Full-Stack%20Dev%20%26%20Serial%20Entrepreneur%20%2F%3E&descAlignY=60&descSize=19&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+<div align="center">
+<a href="https://github.com/ArshiaRahnama">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&customColorList=6,11,20&text=%F0%9F%9B%8D%EF%B8%8F&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=UNIQUE%20SHOP&descSize=22&descAlignY=75" width="100%"/>
+</a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=560&lines=CEO+%40+Unique+Shop+%F0%9F%9B%8D%EF%B8%8F;CEO+%40+Persian+Shop+%F0%9F%8F%AA;Full-Stack+Developer+%F0%9F%92%BB;19+y%2Fo+%7C+Iran+%F0%9F%87%AE%F0%9F%87%B7;Build.+Scale.+Repeat.+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/Role-CEO_%26_Founder-6366f1?style=for-the-badge&logo=undertale&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge&logo=statuspage&logoColor=white"/>
+
+<br/><br/>
+
+<p align="center">
+<b>🛍️ Unique Shop</b><br/>
+<i>Advanced FiveM Scripts · Digital Products · Custom Development</i>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/FiveM-F5A623?style=flat-square&logo=grand-theft-auto&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESX_Framework-000000?style=flat-square&logo=esxi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ox_lib-8b5cf6?style=flat-square&logo=react&logoColor=white"/>
+</p>
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+
+- 🚀 Founder & CEO of **Unique Shop**
+- 💻 Specialized in **FiveM script development**
+- 🎯 Building premium, bug-free, and optimized resources
+- 🛠️ Featured project: [Unique_Fixer](https://github.com/ArshiaRahnama/Unique_Fixer)
+- ⭐ Trusted by server owners worldwide
+
+</details>
+</div>
+</td>
+
+<td width="50%" valign="top">
+<div align="center">
+<a href="https://github.com/ArshiaRahnama">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&customColorList=13,17,31&text=%F0%9F%8F%AA&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=PERSIAN%20SHOP&descSize=22&descAlignY=75" width="100%"/>
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ArshiaRahnama&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/ArshiaRahnama?style=for-the-badge&color=a855f7&labelColor=1e1b4b)
+<img src="https://img.shields.io/badge/Role-CEO_%26_Founder-a855f7?style=for-the-badge&logo=undertale&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Active-22c55e?style=flat-square&logo=statuspage&logoColor=white"/>
+
+<br/><br/>
+
+<p align="center">
+<b>🏪 Persian Shop</b><br/>
+<i>E-commerce · Retail · Iranian Products Marketplace</i>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+
+- 🌐 Founder & CEO of **Persian Shop**
+- 🛒 Online marketplace for premium Iranian products
+- 📦 Fast shipping · Secure payments · Customer support
+- 🎨 Modern UI/UX with WordPress & WooCommerce
+- 🚀 Growing brand with loyal customers
+
+</details>
+</div>
+</td>
+
+</tr>
+</table>
 
 </div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=a855f7&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Building+empires+through+code+and+vision+%E2%9C%A8" />
+</div>
+
+---
 
 ---
 
