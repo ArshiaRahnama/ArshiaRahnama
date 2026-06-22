@@ -1,89 +1,57 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arshia+Rahnama+%F0%9F%91%8B;Full-Stack+Dev+%26+Entrepreneur;CEO+%40+Unique+Shop+%26+Persian+Shop;Building+empires+at+19+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshia;FiveM+Script+Developer;Backend+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
 
-<br/>
+---
 
-```yaml
-name     : Arshia Rahnama
-age      : 19
-location : Iran 🇮🇷
-role     : Full-Stack Developer & Entrepreneur
+### 🧑‍💻 About Me
+- 🎮 I'm a **FiveM Server Owner & Developer**.
+- 🛠️ Currently working on custom scripts like **Unique_Fixer**.
+- 🌱 Learning advanced Lua, Backend development, and system architecture.
+- 💬 Ask me about FiveM scripting, server management, and ESX/QBCore frameworks.
+- ⚡ Fun fact: I believe in clean code and well-structured projects!
 
-brands:
-  - Unique Shop   # CEO & Founder
-  - Persian Shop  # CEO & Founder
+---
 
-currently_learning: ["React", "Node.js", "Advanced PHP"]
-fun_fact: "Building empires at 19 🚀"
-```
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+### 🚀 My Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/FiveM-F5A623?style=for-the-badge&logo=grand-theft-auto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<br/>
+---
 
-## 📊 Skill Levels
-
-```
-HTML        ████████████████████  90%
-CSS         ████████████████████  85%
-JavaScript  ███████████████░░░░░  75%
-PHP         ██████████████░░░░░░  70%
-Python      ██████████████░░░░░░  70%
-WordPress   █████████████░░░░░░░  65%
-Lua         ████████████░░░░░░░░  60%
-```
-
-<br/>
-
-## 🏢 My Brands
-
-| Brand | Role | Description |
-|-------|------|-------------|
-| 🛍️ **Unique Shop** | CEO & Founder | E-commerce brand |
-| 🏪 **Persian Shop** | CEO & Founder | E-commerce brand |
-
-<br/>
-
-## 📈 GitHub Stats
-
+### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiaRahnama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Arshia's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRahnama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArshiaRahnama&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="80%" />
 </p>
 
-<br/>
+---
 
-## 🔥 About Me
-
-- 🎂 19 ساله، از ایران
-- 💼 CEO و صاحب برند **Unique Shop** و **Persian Shop**
-- 💻 Full-Stack Developer با تخصص در Web Development
-- 🌱 در حال یادگیری تکنولوژی‌های جدید
-- 🚀 هدفم: ساخت محصولات دیجیتال بزرگ
-
-<br/>
-
+### 📫 Connect with Me
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6366f1" alt="Profile views"/>
+  <a href="https://discord.gg/YOUR_DISCORD_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:arshiamtz123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <i>"Code is my language, entrepreneurship is my mindset."</i>
-</p>
+---
+<div align="center">
+  <i>⭐️ Don't forget to star my repositories if you find them useful! ⭐️</i>
+</div>
