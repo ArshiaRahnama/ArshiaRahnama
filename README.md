@@ -16,7 +16,7 @@
 
 ---
 
-## My Brand
+## My Project
 
 | Project | Description | Status |
 |---|---|---|
