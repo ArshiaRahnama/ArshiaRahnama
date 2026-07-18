@@ -29,3 +29,6 @@
 ## Best Project
 
 **[Unique_Fixer](https://github.com/ArshiaRahnama/Unique_Fixer)** — FiveM / VMP  Script Free
+
+
+![Now Playing on Aramesh](https://arshiahub.ir/nowplaying-card.php?deviceId=DEVICE_ID)
