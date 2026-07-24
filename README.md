@@ -30,5 +30,4 @@
 
 **[Unique_Fixer](https://github.com/ArshiaRahnama/Unique_Fixer)** — FiveM / VMP  Script Free
 
-##  Markdown
-![Now Playing on Aramesh](https://arshiahub.ir/music/nowplaying-card.php?deviceId=dev-mrcg8ydw-ws2t5nsp)
+
