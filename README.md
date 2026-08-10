@@ -20,13 +20,13 @@
 
 | Project | Description | Status |
 |---|---|---|
-| 🛍️ **Unique Shop** | FiveM & VMP script marketplace | 🟢 Active |
+| 🛍️ **Unique Shop** | FiveM & VMP script marketplace | 🟡 In dev |
 | ⚡ **FXscript Market** | Next-gen FiveM / VMP framework & toolkit | 🟡 In dev |
 | 🏪 **Persian Shop** | Legacy mapping project & free script creator | ⚫ Archived |
 
 ---
 
-## Best Project
+## Free Project
 
 **[Unique_Fixer](https://github.com/ArshiaRahnama/Unique_Fixer)** — FiveM / VMP  Script Free
 
