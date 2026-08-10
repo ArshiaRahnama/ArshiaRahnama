@@ -20,8 +20,8 @@
 
 | Project | Description | Status |
 |---|---|---|
-| 🛍️ **Unique Shop** | FiveM & VMP script marketplace | 🟡 In dev |
-| ⚡ **FXscript Market** | Next-gen FiveM / VMP framework & toolkit | 🟡 In dev |
+| 🛍️ **Unique Market** | FiveM & VMP script marketplace | 🟡 In dev |
+| ⚡ **FX Market** | FiveM & VMP Free Script | ⚫ Archived |
 | 🏪 **Persian Shop** | Legacy mapping project & free script creator | ⚫ Archived |
 
 ---
