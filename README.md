@@ -24,12 +24,74 @@
 
 ## 💻 Web Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 💬 **[پیام‌رسان (Payamresan)](https://arshiahub.ir/payamresan)** | Real-time online chat / messaging web app | `HTML` `JavaScript` `MySQL` `PHP` |
-| 🎵 **[آرامش موزیک (Aramesh Music)](https://arshiahub.ir/music)** | Music streaming & management platform | `HTML` `JavaScript` `MySQL` `PHP` |
-| 🗂️ **[رتبه‌نامه (Rotbenameh)](https://arshiahub.ir/rotbenameh/)** | Organizational hierarchy management & display system | `HTML` `JavaScript` `MySQL` `PHP` |
-| 🏛️ **[معماریار (Memaryar)](https://arshiahub.ir/memarya/)** | Educational platform & assistant tools for architecture students | `Responsive` `CSS` `HTML` `JavaScript` `MySQL` `PHP` |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💬 پیام‌رسان
+**Payamresan**
+
+Real-time online chat / messaging web app
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**[→ View Project](https://arshiahub.ir/payamresan)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 آرامش موزیک
+**Aramesh Music**
+
+Music streaming & management platform
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**[→ View Project](https://arshiahub.ir/music)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ رتبه‌نامه
+**Rotbenameh**
+
+Organizational hierarchy management & display system
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**[→ View Project](https://arshiahub.ir/rotbenameh/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ معماریار
+**Memaryar**
+
+Educational platform & assistant tools for architecture students
+
+![Responsive](https://img.shields.io/badge/-Responsive-6366F1?style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**[→ View Project](https://arshiahub.ir/memarya/)**
+
+</td>
+</tr>
+</table>
 
 <p align="right">🔗 <a href="https://arshiahub.ir"><strong>مشاهده همه‌ی پروژه‌ها روی arshiahub.ir ←</strong></a></p>
 
