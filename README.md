@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>👋 Arshia Rahnama</h1>
-
-<p><strong>FiveM & VMP Developer · Marketplace Builder · Web Developer</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,100:F76B1C&height=220&section=header&text=Arshia%20Rahnama&fontSize=48&fontColor=1a1a1a&fontAlignY=38&animation=fadeIn&desc=FiveM%20%26%20VMP%20Developer%20%C2%B7%20Marketplace%20Builder%20%C2%B7%20Web%20Developer&descAlignY=55&descSize=18&descColor=1a1a1a" width="100%"/>
 
 <p>
   <a href="https://arshiahub.ir"><img src="https://img.shields.io/badge/🌐_Website-arshiahub.ir-FFD43B?style=for-the-badge" /></a>
@@ -17,8 +15,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
 
 </div>
 
@@ -89,7 +85,9 @@ Educational platform & assistant tools for architecture students
 </tr>
 </table>
 
-<p align="right">🔗 <a href="https://arshiahub.ir"><strong>View all projects on arshiahub.ir →</strong></a></p>
+<p align="center">
+  <a href="https://arshiahub.ir"><img src="https://img.shields.io/badge/🔗_View_All_Projects-arshiahub.ir-FFD43B?style=for-the-badge" /></a>
+</p>
 
 <br>
 
@@ -109,5 +107,10 @@ Educational platform & assistant tools for architecture students
 
 <br>
 
+## 🌐 Site
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<p>
+  <a href="https://arshiahub.ir"><img src="https://img.shields.io/badge/Visit-arshiahub.ir-black?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F76B1C,100:FFD43B&height=100&section=footer" width="100%"/>
