@@ -28,8 +28,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💬 پیام‌رسان
-**Payamresan**
+### 💬 Payamresan
 
 Real-time online chat / messaging web app
 
@@ -43,8 +42,7 @@ Real-time online chat / messaging web app
 </td>
 <td width="50%" valign="top">
 
-### 🎵 آرامش موزیک
-**Aramesh Music**
+### 🎵 Aramesh Music
 
 Music streaming & management platform
 
@@ -60,8 +58,7 @@ Music streaming & management platform
 <tr>
 <td width="50%" valign="top">
 
-### 🗂️ رتبه‌نامه
-**Rotbenameh**
+### 🗂️ Rotbenameh
 
 Organizational hierarchy management & display system
 
@@ -75,8 +72,7 @@ Organizational hierarchy management & display system
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ معماریار
-**Memaryar**
+### 🏛️ Memaryar
 
 Educational platform & assistant tools for architecture students
 
@@ -93,7 +89,7 @@ Educational platform & assistant tools for architecture students
 </tr>
 </table>
 
-<p align="right">🔗 <a href="https://arshiahub.ir"><strong>مشاهده همه‌ی پروژه‌ها روی arshiahub.ir ←</strong></a></p>
+<p align="right">🔗 <a href="https://arshiahub.ir"><strong>View all projects on arshiahub.ir →</strong></a></p>
 
 <br>
 
@@ -113,10 +109,5 @@ Educational platform & assistant tools for architecture students
 
 <br>
 
-## 🌐 Site
-
-<p>
-  <a href="https://arshiahub.ir"><img src="https://img.shields.io/badge/Visit-arshiahub.ir-black?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
