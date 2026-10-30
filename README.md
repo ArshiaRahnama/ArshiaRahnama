@@ -8,7 +8,7 @@
 
 <br/>
 
-<sub>I build game-server tooling, script marketplaces and real-time web apps.</sub>
+
 
 </div>
 
