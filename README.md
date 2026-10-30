@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://arshiahub.ir"><img src="assets/header.svg" width="100%" alt="Arshia Rahnama - FiveM / VMP Developer, Marketplace Builder, Web Developer"/></a>
+<a href="https://arshiahub.ir"><img src="assets/header.svg" width="100%" alt="Arshia Rahnama - Marketplace Builder, Web Developer"/></a>
 
 <img src="assets/skills.svg" width="100%" alt="Tech stack: Lua, JavaScript, PHP, Python, MySQL, HTML, CSS, WordPress"/>
 
