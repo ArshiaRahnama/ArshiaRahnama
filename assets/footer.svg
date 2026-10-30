@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img">
+<title>Have a project in mind? Visit arshiahub.ir</title>
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#F5D27A"/><stop offset="0.55" stop-color="#E8B84B"/><stop offset="1" stop-color="#C8922A"/>
+</linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#E8B84B" stop-opacity="0.75"/><stop offset="0.5" stop-color="#334155" stop-opacity="0.6"/><stop offset="1" stop-color="#E8B84B" stop-opacity="0.15"/>
+</linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+</defs>
+<style>
+text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}
+
+@media (prefers-reduced-motion: no-preference){ .g{animation:d 12s ease-in-out infinite alternate} }
+@keyframes d{from{transform:translate(0,0)}to{transform:translate(-120px,20px)}}
+
+</style>
+
+<defs><clipPath id="rc"><rect width="1200" height="200" rx="22"/></clipPath></defs>
+<g clip-path="url(#rc)">
+  <rect width="1200" height="200" fill="#0B1020"/>
+  <circle class="g" cx="1060" cy="170" r="170" fill="#E8B84B" opacity="0.22" filter="url(#blur)"/>
+  <circle cx="120" cy="0" r="150" fill="#4F46E5" opacity="0.14" filter="url(#blur)"/>
+</g>
+<rect x="1" y="1" width="1198" height="198" rx="21" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<text class="m" x="64" y="64" font-size="14" fill="#E8B84B" letter-spacing="3">// LET'S TALK</text>
+<text x="64" y="112" font-size="38" font-weight="800" fill="#F8FAFC">Have a project in mind?</text>
+<text x="64" y="146" font-size="17" fill="#94A3B8">Marketplaces, game-server scripts and web apps, built end to end.</text>
+<rect x="880" y="74" width="256" height="54" rx="27" fill="url(#gold)"/>
+<text x="1000" y="108" font-size="17" font-weight="800" fill="#0B1020" text-anchor="middle">arshiahub.ir</text>
+<g transform="translate(1104,101) scale(1.0)" fill="none" stroke="#0B1020" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M-5 5 L5 -5"/><path d="M-3 -5 H5 V3"/></g>
+
+</svg>
