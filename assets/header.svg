@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img"><title>Arshia Rahnama - Marketplace Builder, Web Developer</title><defs>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#E8B84B" stop-opacity="0"/><stop offset="0.5" stop-color="#E8B84B" stop-opacity="0.9"/><stop offset="1" stop-color="#E8B84B" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F5D27A"/><stop offset="1" stop-color="#E8B84B"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+</defs><style>text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}@media (prefers-reduced-motion: no-preference){.glow{animation:g 16s ease-in-out infinite alternate}.line{animation:l 7s ease-in-out infinite}}
+@keyframes g{from{transform:translateX(-110px)}to{transform:translateX(110px)}}
+@keyframes l{0%,100%{opacity:.55}50%{opacity:1}}</style>
+<defs><clipPath id="rc"><rect width="1200" height="270" rx="22"/></clipPath>
+<linearGradient id="nm" x1="260" y1="0" x2="940" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.7" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F5D27A"/></linearGradient></defs>
+<g clip-path="url(#rc)">
+  <rect width="1200" height="270" fill="#0B1020"/>
+  <ellipse class="glow" cx="600" cy="-10" rx="300" ry="110" fill="#E8B84B" opacity="0.16" filter="url(#blur)"/>
+  <rect class="line" x="0" y="0" width="1200" height="2" fill="url(#hair)"/>
+</g>
+<rect x="0.75" y="0.75" width="1198.5" height="268.5" rx="21.5" fill="none" stroke="#1F2A44" stroke-width="1.5"/>
+<text class="m" x="600" y="82" font-size="13" fill="#E8B84B" letter-spacing="6" text-anchor="middle">2025</text>
+<text x="600" y="150" font-size="56" font-weight="300" letter-spacing="12" fill="url(#nm)" text-anchor="middle">ARSHIA RAHNAMA</text>
+<rect x="572" y="178" width="56" height="2" rx="1" fill="url(#gold)"/>
+<text class="m" x="600" y="216" font-size="13" fill="#94A3B8" letter-spacing="3" text-anchor="middle">MARKETPLACE BUILDER  ·  WEB DEVELOPER</text>
+</svg>

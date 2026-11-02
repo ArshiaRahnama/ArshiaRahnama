@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img"><title>Have a project in mind? Visit arshiahub.ir</title><defs>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#E8B84B" stop-opacity="0"/><stop offset="0.5" stop-color="#E8B84B" stop-opacity="0.9"/><stop offset="1" stop-color="#E8B84B" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F5D27A"/><stop offset="1" stop-color="#E8B84B"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+</defs><style>text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}@media (prefers-reduced-motion: no-preference){.line{animation:l 7s ease-in-out infinite}}@keyframes l{0%,100%{opacity:.5}50%{opacity:1}}</style>
+<rect class="line" x="0" y="0" width="1200" height="2" fill="url(#hair)"/>
+<text class="m" x="2" y="52" font-size="13" fill="#E8B84B" letter-spacing="5">CONTACT</text>
+<text x="0" y="94" font-size="30" font-weight="300" fill="#F8FAFC" letter-spacing="1">Have a project in mind?</text>
+<text x="1166" y="92" font-size="22" font-weight="600" fill="#E8B84B" text-anchor="end">arshiahub.ir</text>
+<g transform="translate(1188,85) scale(1.1)" fill="none" stroke="#E8B84B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-5 5 L5 -5"/><path d="M-3 -5 H5 V3"/></g>
+<line x1="1030" y1="104" x2="1198" y2="104" stroke="#E8B84B" stroke-opacity="0.5" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img"><title>Persian Shop - Legacy mapping project and free script creator</title><defs>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#E8B84B" stop-opacity="0"/><stop offset="0.5" stop-color="#E8B84B" stop-opacity="0.9"/><stop offset="1" stop-color="#E8B84B" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F5D27A"/><stop offset="1" stop-color="#E8B84B"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+</defs><style>text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}</style><rect x="0.75" y="0.75" width="1198.5" height="74.5" rx="16" fill="#0B1020" stroke="#1F2A44" stroke-opacity="1" stroke-width="1.5"/><text class="m" x="36" y="43.0" font-size="14" fill="#E8B84B">03</text><text x="92" y="46.0" font-size="25" font-weight="600" fill="#F8FAFC" letter-spacing="0.3">Persian Shop</text><text x="352" y="43.0" font-size="15.5" fill="#94A3B8">Legacy mapping project and free script creator</text><circle cx="1037" cy="38.0" r="4" fill="#64748B"/><text class="m" x="1114" y="43.0" font-size="13" fill="#F8FAFC" text-anchor="end">Archived</text></svg>
